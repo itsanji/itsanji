@@ -2,7 +2,8 @@
 - 👀 I’m interested in Gaming && fullstack webdev
 - 🌱 I’m currently learning MERN
 - // 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: connect to my email: nhu.nhu.face@gmail.com
+- 📫 How to reach me: 
+-                      connect to my email: nhu.nhu.face@gmail.com
 -                      or my facebook: http://facebook.com/anjitakashi                   
 
 <!---
