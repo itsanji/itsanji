@@ -6,4 +6,4 @@
 - 📫 How to reach me: 
 -                     connect to my email: anji.investhack@gmail.com
 -                     or my facebook: http://facebook.com/anjitakashi                   
--                     my quick-build [portfolio](https://buituyen.netlify.app/)
+-                     my quick-build [portfolio](https://buituyen.netlify.app) 
