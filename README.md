@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjiboss
+- 👋 Hi, I’m Bui Van Tuyen (Anji)
 - 👀 I’m interested in Gaming && fullstack webdev
 - 💼 I'm currently working in InvesthacK 
 - 🌱 I’m currently using Typescript 
