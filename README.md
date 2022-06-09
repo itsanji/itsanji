@@ -4,7 +4,8 @@
 - 🌱 I’m currently using Typescript 
 - 💻 I'm also currently working on an Android/Ios app using React-Native
 - 📫 How to reach me: 
-  - Mail Me: `anji.investhack@gmail.com`
-  - or my [Facebook](http://facebook.com/anjitakashi)
+  - Mail Me: [@anji](mailto:anji@investhack.io).
+  - or my [Facebook](http://facebook.com/anjitakashi).
 
+- Here is my [Link Tree](https://linktr.ee/bui.tuyen)
 - Or Take a look at my quick-build [portfolio](https://buituyen.netlify.app) 🙋🏻‍♂️
