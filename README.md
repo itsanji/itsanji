@@ -1,4 +1,3 @@
-## About Me: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F2F7&width=435&lines=Hello%2C+I'm+Bui+Tuyen+!;You+can+call+me+Anji)](https://git.io/typing-svg)
 
 ### Badges
@@ -9,6 +8,9 @@
 <a href="http://www.github.com/anjiboss">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjiboss&stroke=ffffff&background=1c1917&ring=dd6387&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+
+
+---
 
 📫 How to reach me: 
   - Mail Me: [@anji](mailto:anji@investhack.io).
