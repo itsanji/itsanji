@@ -13,7 +13,7 @@
 ---
 
 📫 How to reach me: 
-  - Mail Me: [@anji](mailto:anji@investhack.io).
+  - Mail Me: [@anji](mailto:nhu.nhu.face@gmail.com).
   - or my [Facebook](http://facebook.com/anjitakashi).
 - Here is my [Link Tree](https://linktr.ee/bui.tuyen)
 - Or Take a look at my quick-build [portfolio](https://buituyen.netlify.app) 🙋🏻‍♂️
