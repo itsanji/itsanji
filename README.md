@@ -10,6 +10,7 @@
 </a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=anjiboss&theme=onedark" />
+
 ---
 
 📫 How to reach me: 
