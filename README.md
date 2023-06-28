@@ -16,4 +16,4 @@
   - Mail Me: [@anji](mailto:nhu.nhu.face@gmail.com).
   - or my [Facebook](http://facebook.com/anjitakashi).
 - Here is my [Link Tree](https://linktr.ee/bui.tuyen)
-- Or Take a look at my quick-build [portfolio](https://buituyen.netlify.app) 🙋🏻‍♂️
+- Or Take a look at my quick-build [portfolio](https://anji-investhack.notion.site/8dc16c596d59474e91d741e54d483f85?pvs=4) 🙋🏻‍♂️
